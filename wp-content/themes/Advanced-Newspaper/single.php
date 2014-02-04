@@ -1,0 +1,1 @@
+<?php if (in_category('courses-institutes')) {	include 'single-educationevents.php'; }elseif (in_category('research-and-practice') || post_is_in_descendant_category( 19 )) {	include 'single-research-and-practice.php'; }else {	include 'single-default.php'; }?>

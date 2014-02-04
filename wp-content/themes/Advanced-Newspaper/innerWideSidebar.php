@@ -1,0 +1,1 @@
+<div id="wideSidebar">	<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('innerWideSidebar_All') ) : ?>					<?php endif; ?>	</div>

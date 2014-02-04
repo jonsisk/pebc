@@ -1,0 +1,15 @@
+[28-Sep-2013 04:42:07] PHP Fatal error:  Call to undefined function  _e() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-account-downloads.php on line 13
+[07-Oct-2013 05:50:26] PHP Fatal error:  Call to undefined function  validate_form_data() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-account-edit-profile.php on line 14
+[07-Oct-2013 21:21:36] PHP Fatal error:  Call to undefined function  wpsc_has_purchases() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-account-purchase-history.php on line 12
+[13-Nov-2013 16:59:56] PHP Fatal error:  Class 'wpsc_checkout' not found in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-shopping_cart_page.php on line 3
+[13-Nov-2013 16:59:57] PHP Fatal error:  Call to undefined function  wpsc_start_category_query() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-category-list.php on line 9
+[13-Nov-2013 17:00:02] PHP Fatal error:  Call to undefined function  validate_form_data() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-account-edit-profile.php on line 14
+[13-Nov-2013 17:00:15] PHP Fatal error:  Call to undefined function  get_term() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-category_widget.php on line 2
+[13-Nov-2013 17:00:54] PHP Fatal error:  Call to undefined function  get_option() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-grid_view.php on line 3
+[13-Nov-2013 17:00:55] PHP Fatal error:  Call to undefined function  wpsc_cart_item_count() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-cart_widget.php on line 7
+[13-Nov-2013 17:00:57] PHP Fatal error:  Call to undefined function  wpsc_output_breadcrumbs() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-list_view.php on line 6
+[13-Nov-2013 17:01:18] PHP Fatal error:  Call to undefined function  wpsc_transaction_theme() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-transaction_results.php on line 13
+[13-Nov-2013 17:01:42] PHP Warning:  Invalid argument supplied for foreach() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-featured_product.php on line 2
+[13-Nov-2013 17:02:18] PHP Fatal error:  Call to undefined function  is_user_logged_in() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-user-log.php on line 13
+[13-Nov-2013 17:02:37] PHP Fatal error:  Call to undefined function  get_option() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-products_page.php on line 3
+[13-Nov-2013 17:02:51] PHP Fatal error:  Call to undefined function  get_option() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-single_product.php on line 8

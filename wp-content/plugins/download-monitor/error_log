@@ -1,0 +1,4 @@
+[31-May-2013 10:31:30] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/download-monitor/init.php on line 44
+[31-May-2013 10:31:30] PHP Fatal error:  Call to undefined function  add_shortcode() in /home/hgpebc/public_html/wp-content/plugins/download-monitor/shortcodes.php on line 34
+[31-May-2013 10:31:30] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/download-monitor/functions.inc.php on line 29
+[31-May-2013 10:31:30] PHP Fatal error:  Call to undefined function  plugins_url() in /home/hgpebc/public_html/wp-content/plugins/download-monitor/wp-download_monitor.php on line 35

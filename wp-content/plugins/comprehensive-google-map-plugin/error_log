@@ -1,0 +1,4 @@
+[24-Apr-2013 18:33:40] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/comprehensive-google-map-plugin/metabox.php on line 20
+[31-May-2013 10:35:02] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/comprehensive-google-map-plugin/metabox.php on line 20
+[13-Aug-2013 20:49:13] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/comprehensive-google-map-plugin/metabox.php on line 20
+[13-Nov-2013 17:00:04] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/comprehensive-google-map-plugin/metabox.php on line 20

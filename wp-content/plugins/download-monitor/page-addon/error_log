@@ -1,0 +1,1 @@
+[31-May-2013 10:31:29] PHP Fatal error:  Call to undefined function  add_action() in /home/hgpebc/public_html/wp-content/plugins/download-monitor/page-addon/download-monitor-page-addon.php on line 46

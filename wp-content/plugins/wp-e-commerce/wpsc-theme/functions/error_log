@@ -1,0 +1,1 @@
+[13-Nov-2013 17:01:58] PHP Fatal error:  Call to undefined function  get_option() in /home/hgpebc/public_html/wp-content/plugins/wp-e-commerce/wpsc-theme/functions/wpsc-user_log_functions.php on line 13
